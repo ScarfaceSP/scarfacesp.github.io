@@ -1,0 +1,60 @@
+{
+    "fromMe": [{
+        "id": "0000",
+        "details": [
+            [
+                "💐💐HAPPY BIRTHDAY💐💐",
+                "Minha Dona <3",
+                "<img src='img/1.jpg'>",
+                "🌹enviar-lhe flores🌹",
+                "<pre>🍀🍀🍀🌹🍀🍀🍀🌹🍀🍀🍀 \n🍀🍀🌹🌹🌹🍀🌹🌹🌹🍀🍀 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🍀🍀🌹🌹🌹🌹🌹🌹🌹🍀🍀 \n🍀🍀🍀🌹🌹🌹🌹🌹🍀🍀🍀 \n🍀🍀🍀🍀🍀🌹🍀🍀🍀🍀🍀</pre>",
+                "Você chegou como um raio de sol",
+                "Iluminando meus dias e meu coração",
+                "Seus olhos brilham como estrelas no céu",
+                "<img src='img/2.jpg'>",
+                "Neste dia especial, meu amor atravessa o espaço,",
+                "Apesar da distância, sinto seu abraço.",
+                "Seu aniversário é um motivo de alegria,",
+                "Mesmo distantes, nossa conexão nunca se esvazia.",
+                "<img src='img/3.jpg'>",
+                "Espere um minuto 🙂",
+                "deixe-me dar outra olhada na sua foto😘",
+                "<img src='img/4.jpg'>",
+                "Como pode ser tão perfeita assim",
+                "Oh MDS",
+                "<img src='img/5.jpg'>",
+                "Cada milha percorrida é um passo em sua direção",
+                "Ao momento em que estaremos juntos, sem limitação.",
+                "Feliz aniversário, minha estrela distante,",
+                "Em meu coração, você brilha radiante.",
+                "<img src='img/6.jpg'>",
+                "Que a distância não apague nossa Amizade<3,",
+                "Pois o amor verdadeiro não se acaba 💑",
+                "Quando o tempo permitir, estaremos lado a lado,",
+                "Comemorando seu aniversários, em um abraço apertado.😍",
+                "Quero ter sua amizade para sempre na minha vida <3",
+                "<img src='img/7.jpg'>",
+                "Aceita?  (Responde↓)"
+            ]
+        ],
+        "responses": [{
+            "content": "Gostaria",
+            "nextAuthor": ["0001"]
+        }]
+    }, {
+        "id": "0001",
+        "details": [
+            [
+                "Celebrando seu aniversário, mesmo longe de ti.",
+                "Envio um abraço 😍",
+                "E um beijo que alcança o céu inteiro.",
+                "Vejo você todos os dias no meu pensamento",
+                "Feliz aniversário, minha querida,",
+                "essas promessas para você",
+                "vou cumpri-los um por um😉",
+                "<img src='img/8.jpg'>"
+            ]
+        ]
+    }],
+    "fromUser": []
+}
